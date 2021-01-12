@@ -1,0 +1,80 @@
+{
+  "ryan-reynolds": [
+    "blake-lively",
+    "scarlett-johansson",
+    "alanis-morissette",
+    "sandra-bullock",
+    "rachael-leigh-cook",
+    "kristen-johnston",
+    "traylor-howard"
+  ],
+  "ryan-gosling": [
+    "eva-mendes",
+    "christina-hendricks",
+    "kat-dennings",
+    "rachel-mcadams",
+    "sandra-bullock",
+    "casey-labow",
+    "blake-lively",
+    "olivia-wilde",
+    "jaime-murray",
+    "famke-janssen"
+  ],
+  "scarlett-johansson": [
+    "colin-jost",
+    "romain-dauriac",
+    "ryan-reynolds",
+    "kevin-yorn-32494286",
+    "joe-machota",
+    "nate-naylor",
+    "sean-penn",
+    "josh-hartnett",
+    "jared-leto",
+    "james-holzier",
+    "jack-antonoff",
+    "justin-timberlake",
+    "benicio-del-toro",
+    "patrick-wilson",
+    "jude-law"
+  ],
+  "blake-lively": [
+    "ryan-reynolds",
+    "leonardo-dicaprio",
+    "penn-badgley",
+    "kelly-blatz",
+    "ryan-gosling"
+  ],
+  "kat-dennings": [
+    "josh-groban",
+    "nick-zano",
+    "tom-hiddleston",
+    "ryan-gosling",
+    "matthew-gray-gubler",
+    "ira-david-wood-iv",
+    "aubrey-graham"
+  ],
+  "justin-timberlake": [
+    "jessica-biel",
+    "cameron-diaz",
+    "alyssa-milano",
+    "jenna-dewan-tatum",
+    "britney-spears",
+    "tonya-mitchell",
+    "veronica-finn",
+    "danielle-ditto",
+    "lindsay-lohan",
+    "tatyana-ali",
+    "emma-bunton",
+    "nicole-appleton",
+    "fergie",
+    "alisha-wainwright",
+    "thaila-ayala",
+    "olivia-wilde",
+    "olivia-munn",
+    "rihanna",
+    "scarlett-johansson",
+    "staci-b-flood",
+    "alicia-keys",
+    "beyonce-knowles"
+  ]
+}

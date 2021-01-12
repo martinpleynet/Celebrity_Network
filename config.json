@@ -1,0 +1,4 @@
+{
+	"cache_dir":"./celeb_cache",
+	"target_people":["ryan-reynolds", "ryan-gosling", "scarlett-johansson", "blake-lively", "kat-dennings", "justin-timberlake"]
+}
